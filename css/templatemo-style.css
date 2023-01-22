@@ -131,7 +131,7 @@ header {
 .navbar-toggle {
   position: absolute;
   top: 40%;
-  left: 60%;
+  left: 85%;
   display: inline-block;
   -webkit-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);
@@ -214,10 +214,14 @@ header {
   margin-left: 80px
 }
 
-header button{
+header #eng-but{
   position: absolute;
-   left: 70%;
-   top: 30%
+   left: 50%;
+   top: 35%;
+   border: none;
+   background-color: Transparent;
+   font-style: normal;
+
 }
 
 

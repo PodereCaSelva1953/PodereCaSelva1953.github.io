@@ -254,7 +254,7 @@ header #eng-but{
 
 .sidebar-navigation nav {
   position: relative;
-  top: 30%;
+  top: 20%;
   left: 60%;
   -webkit-transform: translateX(-60%) translateY(-60%);
   -moz-transform: translateX(-60%) translateY(-60%);

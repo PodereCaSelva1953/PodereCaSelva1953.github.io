@@ -316,6 +316,7 @@ header #eng-but{
 }
 .sidebar-navigation nav .active-section .rect{
   width: 30px;
+  background-color: var(--third);
 }
 .sidebar-navigation nav .active-section .circle{
   background-color: var(--third);

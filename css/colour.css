@@ -1,12 +1,6 @@
 
 :root {
-  --first: rgba(12,12,12,0.9);
-  --second: #45489a;
-  --third: #fff;
-}
-/*
-:root {
   --first: rgb(219,199,136,0.8);
   --second: rgb(33,72,105);
   --third: rgb(12,12,12);
-}*/
+}
